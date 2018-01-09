@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_5d0137d0b3f7df57c240ff8703832c6b0ac495c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MASTER\PEMROGRAMAN &amp; APLIKASI PERKULIAHAN\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_29ae770499820e664b7515942bd532ad9c5e8026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_c2d744fcf4a87226f5a239ffd843f1fe70fb21c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_cebac89fdbbd730a71ffc53272c441ebec50af8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_89ad23fc9bb3667d18fbf49af4e4b81a856334f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d369edd4db62ca90b6c19e9d9f3a7de779a2a092">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\instant-run_b13feb57b23d0f8ac270598288b2de1fbd6f479d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72fa6695f1c186926b421a5feeb39834a1786f8e">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e2c992ab97e7c4816a941cbe935ae962144f72bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_a9baf81a85032ef65fe188b4a456b5860a521c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_2f39171e7e6ed64daa1073dab96764ccfe84cecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_158450276849d9a890bbab2ba0260dbb15392bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_6504b53fbd2ef741518b36c6d732d0d300be7240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\PRAKTIKUM\android\Tajwid1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_3c18d1cd87ad293ee90a96b94ea5f433a88b1df9.jar" />
+    </item>
+
+</items>

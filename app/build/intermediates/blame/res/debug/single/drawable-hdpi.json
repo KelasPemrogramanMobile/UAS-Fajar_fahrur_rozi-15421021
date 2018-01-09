@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_play.png",
+        "source": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\src\\main\\res\\drawable-hdpi\\btn_play.png"
+    },
+    {
+        "merged": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_arrow_prev.png",
+        "source": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\src\\main\\res\\drawable-hdpi\\btn_arrow_prev.png"
+    },
+    {
+        "merged": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_submit.png",
+        "source": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\src\\main\\res\\drawable-hdpi\\btn_submit.png"
+    },
+    {
+        "merged": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_stop.png",
+        "source": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\src\\main\\res\\drawable-hdpi\\btn_stop.png"
+    },
+    {
+        "merged": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_arrow_next.png",
+        "source": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\src\\main\\res\\drawable-hdpi\\btn_arrow_next.png"
+    },
+    {
+        "merged": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\PRAKTIKUM\\android\\Tajwid1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
